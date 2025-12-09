@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors';
-import checkCityCount from 'city-count';
+import checkCityCount from 'mahesh-city-count';
 
 const app = express();
 
